@@ -121,7 +121,7 @@ body{
     border-radius: 10px 10px 10px 10px;
     border: 1px #EDEDED solid;
     position: relative;
-    top: -90px;
+    top: 184px;
 }
 
 .h2{
@@ -222,7 +222,7 @@ body{
         width: 340px;
         height: 250px;
         margin: 0px;
-        margin-top: 255px;
+        margin-top: 15px;
     }
 
     .h2{
