@@ -159,7 +159,7 @@ body{
 }
 
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 480px){
 
     body{
         padding: 0px;
@@ -209,10 +209,11 @@ body{
     }
     
     .dbox{
-        width: 340px;
+        width: 95%;
         height: 250px;
         margin: 0px;
-        margin-top: 255px;
+        margin-left: 2.5%;
+        margin-top: 40%;
     }
 
     .h2{
@@ -223,18 +224,18 @@ body{
 
     .fa{
         margin: 0px;
-        margin-left: 140px;
+        margin-left: 55%;
         margin-bottom: 23px;
     }
 
     .inp{
-        width: 300px;
+        width: 90%;
     }
 
     .bb{
         margin: 0px;
         margin-top: 34px;
-        margin-left: 140px;
+        margin-left: 55%;
     }
 
 }

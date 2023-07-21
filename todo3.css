@@ -95,7 +95,7 @@ body{
     display: flex;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 480px) {
     body{
         margin: 0px;
         padding: 0px;
@@ -103,18 +103,29 @@ body{
 
     .div1{
         margin: 0px;
-        height: 60px;
+        height: 80px;
+    }
+
+    .div2{
+        width: 100%;
     }
 
     .h1{
         margin: 0px;
-        margin: 12px;
+        margin-left: 2%;
     }
 
     .box{
         margin: 0px;
         margin-top: 20px;
         display: flex;
+        width: 95%;
+        justify-content: space-between;
+    }
+
+    .div3 {
+        display: block;
+        width: 100%;
     }
     
     .fa{
@@ -133,9 +144,10 @@ body{
     }
 
     .c2{
-        width: 336px;
+        width: 95%;
         height: 360px;
         margin: 0px;
         margin-top: 30px;
+        margin-left: 2.5%;
     }
 }
